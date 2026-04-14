@@ -152,7 +152,7 @@ const About = () => {
               <div className="absolute -inset-6 border border-gold/10" />
               
               <img 
-                src="/profile.png" 
+                src="/profile.jpg" 
                 alt="Gabari Rume" 
                 className="w-full h-full object-cover"
               />
